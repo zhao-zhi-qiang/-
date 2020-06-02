@@ -6,7 +6,7 @@
 
 #### 软件架构
 软件架构说明
-SpringBoot Shiro Activity MySQL BootStrap jsp
+SpringBoot Shiro Activity MySQL BootStrap jsp nginx
 
 #### 安装教程
 
