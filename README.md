@@ -8,8 +8,8 @@
 软件架构说明
 后端框架:SpringBoot+Shiro+Activity 
 数据库:MySQL 
-前端框架:BootStrap+jsp 
-nginx
+前端框架:BootStrap+Jsp+Nginx
+
 
 #### 安装教程
 
